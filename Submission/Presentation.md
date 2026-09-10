@@ -8,5 +8,5 @@
 
 ## Files
 
-- **Presentation (PPTX):** [Code Catalyst_SIH2026_Presentation.pptx](Code Catalyst_SIH2026_Presentation.pptx)
+- **Presentation (PPTX):** [Code_Catalyst_SIH2026_Presentation.pptx](Code Catalyst_SIH2026_Presentation.pptx)
 - **Presentation (Google Slides):** [Open in Google Drive](https://docs.google.com/presentation/d/1WdRl771o40AvMkVGoNYdrwPk3BH_yMjm/edit?usp=drivesdk&ouid=107797840223647576693&rtpof=true&sd=true)
